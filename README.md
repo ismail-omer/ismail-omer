@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ISMAIL OMER</h1>
-<h3 align="center">Data Scientist | AI & Data Enthusiast | Innovation-Driven | Bridging Technology & Business | Lifelong Learner 🚀</h3>
+<h3 align="center">Data Scientist | NLP & Machine Learning Specialist | Python, SQL, Scikit-learn | MLOps | A/B Testing | LLMs & Generative AI
+</h3>
 
 
 
@@ -52,6 +53,6 @@ I am passionate about leveraging data-driven insights to build impactful AI solu
 
 ## 📫 Connect with Me
 
-- **Email:** ismailomer.data@gmail.com  
+- **Email:** ismailomer.ds@gmail.com  
 
 Let's collaborate and build something amazing! 🚀
