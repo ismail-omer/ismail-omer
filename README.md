@@ -33,7 +33,7 @@ I am passionate about leveraging data-driven insights to build impactful AI solu
 
 ## 📌 Notable Projects
 
-### Bias Detector for News Articles Using NLP and Sentiment Analysis.
+### 📝 Bias Detector for News Articles Using NLP and Sentiment Analysis.
 - Developed an automated Bias Detection System for News Articles using Natural Language Processing (NLP) and Sentiment Analysis techniques. 
 
 ### 🔍 Recommender System
